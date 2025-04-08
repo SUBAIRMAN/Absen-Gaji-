@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+reportlab
+python-multipart
+xlsxwriter
